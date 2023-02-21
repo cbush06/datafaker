@@ -1,0 +1,6 @@
+schema.yml
+__pycache__
+.vscode
+venv
+/dist
+*.egg-info
